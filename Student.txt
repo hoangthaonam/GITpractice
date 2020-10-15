@@ -2,10 +2,11 @@ function Somefunction(){
 	echo "something";
 	echo "different"
 }
-function study(){
+function login(){
 	echo "let's study";
 	echo "working hard";
+	echo "change study";
 }
 function Eating(){
-	echo "Student eat noodles";
+	echo "Student just eat noodles";
 }
