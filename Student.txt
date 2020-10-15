@@ -6,3 +6,6 @@ function study(){
 	echo "let's study";
 	echo "working hard";
 }
+function Eating(){
+	echo "Student eat noodles";
+}
