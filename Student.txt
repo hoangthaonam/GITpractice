@@ -2,3 +2,6 @@ function Somefunction(){
 	echo "something";
 	echo "different"
 }
+function study(){
+	echo "let's study";
+}
