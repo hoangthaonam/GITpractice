@@ -4,7 +4,7 @@ function Somefunction(){
 }
 function login(){
 	echo "let's study";
-	echo "working hard met vc";
+	echo "working hard";
 	echo "change study";
 }
 function Eating(){
