@@ -9,5 +9,6 @@ function login(){
 }
 function Eating(){
 	echo "Student just eat noodles";
+eating m=something else
 }
 function master()
