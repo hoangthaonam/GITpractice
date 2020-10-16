@@ -12,6 +12,10 @@ function Eating(){
 	eating m=something elseasdadsasdasd
 }
 function master()
+	eating m=something else
+}
+function master()
+=======
 	echo "Eating sugar";
 	eating hasdhfiu
 }
