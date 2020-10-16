@@ -10,5 +10,5 @@ function login(){
 function Eating(){
 	echo "Student just eat noodles";
 	echo "Eating sugar";
-eating hasdhfiu
+	eating coconut
 }
