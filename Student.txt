@@ -9,6 +9,10 @@ function login(){
 }
 function Eating(){
 	echo "Student just eat noodles";
-eating m=something else
+	eating m=something elseasdadsasdasd
 }
 function master()
+=======
+	echo "Eating sugar";
+	eating hasdhfiu
+}
